@@ -11,4 +11,4 @@ I can pin my favorite Twitch channels and see when the streamers are live. To vi
 # NFT CERTIFICATE
 ![Twitch Dashboard](TwitchNFT.png)
 
-I earned an NFT for completing the project, certifying my skills.
+I earned an NFT for completing the project.
